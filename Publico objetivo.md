@@ -1,10 +1,7 @@
 ## Público Objetivo
 
-Mi diseño del público objetivo se basó en la población de mi ciudad, donde habitan poco menos de 200,000 personas. Como señalo en el diagrama, se enfoca en jovenes adultos, mayormente mujeres que se hayan divorciado o que vivieran con su conyuge y quese haya dado a luz a un bebé.
-
-El fundamento principal es sobre las demandas de manutención ya que, desgraciadamente, los padres son los que dejan la familia. Además, la ley dice que a pesar de que una pareja no se haya casado pero al haber tenido un hijo, el padre o madre demandado, debe de garantizar el bienestar del hijo, en este caso dando una pensión alimenticia para los gastos básicos.
-
-Abogabot, estaría enfocado en esa parte de la población, ya que al ser jovenes adultos, tienen más contacto con las tecnologías y no sería tan complicado el entender el modelo de negocio.
-
-
-
+Mi diseño de publico esta basado bajo el siguiente caso: 
+Oficinas juridicas del municipio de Nezahualcoyotl, presentan una saturiación en la resolución de demandas o asuntos legales de cualquier magnitud. En consecuencia, para cualquier tramite legal, darle seguimiento oportuno, constante y de manera objetiva se a vuelto una tarea muy complicada y tardada. 
+Abogabot, estara enfocado en realizar los tramites de forma automática, y auxiliado por expertos en temas legales, le daran seguimiento a las demandas en tiempo y forma, sin tener que acudir a las oficinas o tener que esperar a largo plazo la respuesta del juez. 
+Al estar disponible en dispositivos tecnologicos, será mas sencillo e intuitivo tramitar la demanda y supervisar el avance de esta misma.
+![Personal objetivo](https://user-images.githubusercontent.com/99302791/156901447-747a3ec3-e24d-4c60-bce9-d1f9998cf320.png)
