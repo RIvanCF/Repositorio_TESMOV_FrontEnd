@@ -15,9 +15,9 @@ Descripción:
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 
-- **Practicas**
+**Practicas**
 	- [Toma de requerimientos](https://github.com/RIvanCF/SEMANA-1_ABOGABOT_FrontEnd/blob/main/Toma_de_requerimientos.pdf)
-        - [Crea tu buyer persona](./2.-buyerPersona.md)
+        - [Crea tu buyer persona](https://github.com/RIvanCF/SEMANA-1_ABOGABOT_FrontEnd/blob/main/Gabriel%20Duque%20Leyes.pdf)
 	- [Publico objetivo](./3.-publicoObjetivo.md)
 	- [Crea tu primer Wireframe UX](./4.-wireframe.md)
 	- [Ahora el UI](./5.-ui.md)
