@@ -19,9 +19,27 @@ Descripción:
 - [Toma de requerimientos](https://github.com/RIvanCF/SEMANA-1_ABOGABOT_FrontEnd/blob/main/Toma_de_requerimientos.pdf)
 - [Crea tu buyer persona](https://github.com/RIvanCF/SEMANA-1_ABOGABOT_FrontEnd/blob/main/Gabriel%20Duque%20Leyes.pdf)
 - [Publico objetivo](https://github.com/RIvanCF/SEMANA-1_ABOGABOT_FrontEnd/blob/main/Publico%20objetivo.md)
-- [Crea tu primer Wireframe UX]
-- [Ahora el UI]
+- [Crea tu primer Wireframe UX](https://miro.com/app/board/uXjVOH-q0Gk=/?invite_link_id=974149261431)
+- [Ahora el UI](https://miro.com/app/board/uXjVOH-cQsM=/?invite_link_id=318138482000)
 
-Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
+### Toma de requerimientos 
 
-***¡Vámonos hasta el espacio y más allá Explorers!***
+![Requerimientos](https://user-images.githubusercontent.com/99302791/160069721-4702469a-80a7-4e62-bd21-7ef2a1fd7e05.png)
+
+### Buyer persona
+
+![Buyer](https://user-images.githubusercontent.com/99302791/160070010-362ba7d0-c8d5-47b5-9480-ce4f8c541c50.png)
+
+### Publico objetivo
+
+![Personal objetivo](https://user-images.githubusercontent.com/99302791/160070160-154558c0-8cfd-40a1-8020-5f2b07748298.png)
+
+### UX
+
+![UX](https://user-images.githubusercontent.com/99302791/160070453-44f4d52a-27ce-4c42-b362-b27dbccf22dc.png)
+
+### UI
+
+![UI](https://user-images.githubusercontent.com/99302791/160070854-cf60d941-dd34-4ad2-b18e-fb2064256577.png)
+
+
