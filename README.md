@@ -16,7 +16,7 @@ Descripción:
 
 
 - **Practicas**
-	- [Toma de requerimientos] (https://github.com/RIvanCF/SEMANA-1_ABOGABOT_FrontEnd/blob/main/Toma_de_requerimientos.pdf)
+	- [Toma de requerimientos](https://github.com/RIvanCF/SEMANA-1_ABOGABOT_FrontEnd/blob/main/Toma_de_requerimientos.pdf)
         - [Crea tu buyer persona](./2.-buyerPersona.md)
 	- [Publico objetivo](./3.-publicoObjetivo.md)
 	- [Crea tu primer Wireframe UX](./4.-wireframe.md)
